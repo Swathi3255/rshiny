@@ -18,7 +18,7 @@ Debt financing occurs when a firm sells fixed income products, such as bonds, bi
 Funding rounds:
 Number of times an additional money that goes into investment called rounds (Series A, B.. Etc. or round 1, 2..etc), some companies never extend beyond seed funding into Series A rounds or beyond. 
 
-Summary of the data set:
+# Summary of the data set:
 The dataset I used is from Kaggle.com, and it is purely based on the data taken from CrunchBase, a leading investment platform. This dataset contains information on new companies started from year 1991 till 2014 in different market segments. Let us first look at how many new companies were founded by year.
  
 We clearly see that there is a rise in no of companies during 2007 and 2012 and the slowed down the creation of new companies started to decline drastically in 2013 and 2014. It could be due to the recession during that time.
