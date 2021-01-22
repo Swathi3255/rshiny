@@ -1,6 +1,5 @@
-# rshiny
-# Investments project 
- 
+# rshiny app code for startup investments
+
 # Introduction:
 Invention and Innovation drive the economy. Investors want to invest in great products and services with a competitive edge that is long lasting. They look for products and services that customers cannot do without – because it is so much better or because it is so much cheaper than anything else in the market. So, naturally, Investors want to know what they are getting into when they take a stake in an early stage company. With so many investment opportunities and start-up pitches, Investors often have a set of criteria that they look for and evaluate before making an investment such as management team, business concept and plan, market opportunity, geographic location and risk judgement etc. and all play a role in making this decision. With such a motivation I took this opportunity to design an application using my knowledge in R shiny, that helps making sound investment decisions. 
 # Glossary of Funding Terms
